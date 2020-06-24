@@ -1,0 +1,16 @@
+# Project exclude paths
+/lab1/target/
+/lab1/target/scala-2.13/classes/
+/lab1/target/scala-2.13/test-classes/
+/lab2/target/
+/lab2/target/scala-2.13/classes/
+/lab2/target/scala-2.13/test-classes/
+/lab3/target/
+/lab3/target/scala-2.13/classes/
+/lab3/target/scala-2.13/test-classes/
+/lab4/target/
+/lab4/target/scala-2.13/classes/
+/lab4/target/scala-2.13/test-classes/
+/project/project/target/
+/project/target/
+/target/
